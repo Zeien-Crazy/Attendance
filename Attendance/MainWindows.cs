@@ -16,8 +16,6 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using Button = System.Windows.Forms.Button;
 using System.Web.UI.WebControls;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
-using System.Windows.Controls;
-using Control = System.Windows.Controls.Control;
 
 namespace Attendance
 {
@@ -74,6 +72,7 @@ namespace Attendance
             visitor = new VisitorForm(this);
             this.frm1 = frm1;
             InitializeComponent();
+            this.Opacity = 0.0;
             random = new Random();
             btnCloseCgildForm.Visible = false;
             this.Text = string.Empty;

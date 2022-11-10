@@ -1,0 +1,89 @@
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe.config
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\Attendance.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Form1.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.exe
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\ru\Attendance.resources.dll
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Form1.ru.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\ru\Attendance.resources.dll
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Register1.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Register2.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.MainWindows.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormLive.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.AdministrationForm.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormGrupList.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.VisitorForm.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormSettings.resources
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormPastVisit.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\bin\Debug\Attendance.exe.config
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\bin\Debug\Attendance.exe
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\bin\Debug\Attendance.pdb
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\bin\Debug\ru\Attendance.resources.dll
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Form1.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.AdministrationForm.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.FormGrupList.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.FormLive.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.FormPastVisit.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.FormSettings.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Forms.VisitorForm.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.MainWindows.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Register1.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Register2.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.Form1.ru.resources
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\ru\Attendance.resources.dll
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.exe
+C:\Users\dimat\OneDrive\Рабочий стол\Attendance\Attendance\obj\Debug\Attendance.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.dll
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.xml
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dima\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dima\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+E:\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe.config
+E:\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe
+E:\source\repos\Attendance\Attendance\bin\Debug\Attendance.pdb
+E:\source\repos\Attendance\Attendance\bin\Debug\ru\Attendance.resources.dll
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.dll
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.dll
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.dll
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.pdb
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.xml
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.pdb
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.WinForms.xml
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.pdb
+E:\source\repos\Attendance\Attendance\bin\Debug\LiveCharts.Wpf.xml
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Form1.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.AdministrationForm.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormGrupList.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormLive.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormPastVisit.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.FormSettings.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Forms.VisitorForm.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.MainWindows.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Register1.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Register2.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.Form1.ru.resources
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+E:\source\repos\Attendance\Attendance\obj\Debug\ru\Attendance.resources.dll
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.exe
+E:\source\repos\Attendance\Attendance\obj\Debug\Attendance.pdb

@@ -357,8 +357,6 @@ namespace Attendance
                     Properties.Settings.Default.Save();
                 }
 
-                
-
                 if (mw != null)
                 {
                     mw.LoadForm();
