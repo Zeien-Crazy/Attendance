@@ -17,6 +17,7 @@ using Button = System.Windows.Forms.Button;
 using System.Web.UI.WebControls;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 using System.Windows.Controls;
+using Control = System.Windows.Controls.Control;
 
 namespace Attendance
 {
