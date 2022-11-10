@@ -357,7 +357,7 @@ namespace Attendance
                     Properties.Settings.Default.Save();
                 }
 
-                this.Hide();
+                
 
                 if (mw != null)
                 {

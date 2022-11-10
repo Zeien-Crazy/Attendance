@@ -16,6 +16,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using Button = System.Windows.Forms.Button;
 using System.Web.UI.WebControls;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
+using System.Windows.Controls;
 
 namespace Attendance
 {
@@ -155,6 +156,24 @@ namespace Attendance
             LoadVisitor();
 
             LoadGroupList();
+
+            ShowWindiw();
+        }
+
+        public async void ShowWindiw()
+        {
+            double o;
+
+            for (o = 1.0; o >= 0.0; o -= 0.1, await Task.Delay(30))
+            {
+                frm1.Opacity = o;
+            }
+            frm1.Hide();
+
+            for (o = 0.0; o <= 1.0; o += 0.1, await Task.Delay(30))
+            {
+                this.Opacity = o;
+            }
         }
 
         public void LoadLiveVisition()
